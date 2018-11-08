@@ -77,6 +77,8 @@ div {
   margin: 20px;
 }
 
-#boder-top-pink {
-  border-top: 3px solid rgba(255, 90, 95, 0.5);;
+.rotate-90 {
+    -webkit-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+            transform: rotate(90deg);
 }
